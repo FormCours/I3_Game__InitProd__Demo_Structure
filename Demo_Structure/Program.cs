@@ -21,3 +21,5 @@ grpGame.Local = "4IT-7";
 grpGame.Apprenantes = new List<Stagiaire>();
 grpGame.Apprenantes.Add(s1);
 grpGame.Apprenantes.Add(s2);
+grpGame.Responsable.Nom = "Nicole";
+grpGame.Responsable.Entreprise = "Interface 3";
